@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="user_number">user_number</string>
+    <string name="result">result</string>
+    <string name="intent_filter_action">com.jack.fibonacci.fib_calculated</string>
+    <string name="error_message">Input value must be from 1 to 1000</string>
+    <string name="result_text_field">result_text_field</string>
+    <string name="fibonacci_edit_text">fibonacci_edit_text</string>
+</resources>
